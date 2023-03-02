@@ -1,1 +1,1 @@
-# DS-for-CL-and-CAD
+# Data selection for contrastive learning and cardiac arrhythmia detection
