@@ -1,4 +1,4 @@
-# Data selection for contrastive learning and cardiac arrhythmia detection
+# Data selection for contrastive learning-based pretraining for cardiac arrhythmia detection
 
 
 ## DATASET
