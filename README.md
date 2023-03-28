@@ -9,13 +9,24 @@ Please make sure to modify the path in `import_data.py` to your respective local
 
 ## DATA SELECTION:
 
-run `python cxdagan_selection.py`
+1. To run the CX-DaGAN-based signal selection on dataset `datasetd_05_2`
+
+`python cxdagan_selection.py`
+
+2. To generate the dataset file
+
+`python generate_set_data_images.py`
+
 
 ## PRETRAINING, TRAINING AND MODEL EVALUATION:
 
-run `python contrastive.py`
+To run contrastive learning-based pretraining, training and model evaluation on the model.
+
+`python contrastive.py`
 
 ## TRAINING AND MODEL EVALUATION:
+
+To run only training and model evaluation on the model.
 
 run `python baseline.py`
 
