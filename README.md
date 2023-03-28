@@ -28,5 +28,5 @@ To run contrastive learning-based pretraining, training and model evaluation on 
 
 To run only training and model evaluation on the model.
 
-run `python baseline.py`
+`python baseline.py`
 
