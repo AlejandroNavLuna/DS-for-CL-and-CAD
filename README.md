@@ -1,4 +1,4 @@
-# Data selection for contrastive learning-based pretraining for cardiac arrhythmia detection
+# Enhancing Contrastive Learning for Atrial Fibrillation Detection Using Clustering-Based Unlabeled ECG Selection
 
 
 ## DATASET
